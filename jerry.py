@@ -11,18 +11,4 @@ minAge = age / 2  + 7
 print(" you can date someone as young as ") 
 print(minAge) 
 print(" without being a total fucking creep like jerry")
-
-
-
-# print("user input: ")
-# userInput = input()
-
-
-# statement = input("user prompt: Jerry Seinfeld is complicit with genocide. ")
-
-# print("statement variable: " + statement)
-# print("user Input: " + userInput)
-
-
-
  
